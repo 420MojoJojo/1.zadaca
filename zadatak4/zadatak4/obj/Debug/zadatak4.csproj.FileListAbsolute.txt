@@ -1,0 +1,6 @@
+c:\users\luka\documents\visual studio 2013\Projects\zadatak4\zadatak4\bin\Debug\zadatak4.exe.config
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\zadatak4\zadatak4\obj\Debug\zadatak4.csprojResolveAssemblyReference.cache
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\zadatak4\zadatak4\bin\Debug\zadatak4.exe
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\zadatak4\zadatak4\bin\Debug\zadatak4.pdb
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\zadatak4\zadatak4\obj\Debug\zadatak4.exe
+C:\Users\Luka\Documents\Visual Studio 2013\Projects\zadatak4\zadatak4\obj\Debug\zadatak4.pdb
